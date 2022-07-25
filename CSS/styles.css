@@ -1,0 +1,158 @@
+ body{
+   margin: 0;
+   text-align: center;
+
+ }
+ h1{
+   color: #66BFBF;
+   margin:50px auto 0px auto;
+   font-size: 450%;
+   font-family: 'Edu QLD Beginner', cursive;
+
+ }
+ h2{
+   color: #66BFBF;
+   font-family:sans-serif;
+   font-weight: normal;
+   line-height:2;
+ }
+ h3{
+   color: #11999E;
+   font-family: 'Edu QLD Beginner', cursive;
+
+ }
+ hr{
+   border-style: none;
+   border-top-style: dotted;
+   border-color: gray;
+   border-width: 5px;
+   width:10%;
+ }
+ p{
+
+ }
+
+ .top-continer{
+   background-color:#E4F9F5;
+   position: relative;
+   padding-top: 100px;
+ }
+ .middle-continer{
+
+ }
+ .bottom-continer{
+
+   background-color: #66BFBF;
+   padding-bottom:  20px ;
+   padding-top: 20PX;
+   margin-top: 50px;
+
+ }
+
+
+.top{
+   position:absolute;
+   right:15.625%;
+   top: 3.125%;
+   width: 12.5%;
+
+
+ }
+ .bottom{
+   position:absolute;
+   bottom: 50%;
+   left: 18.75%;
+   width: 12.5%;
+
+
+ }
+ .mountain-img{
+
+   width: 100%;
+   height:auto;
+ }
+
+ .tital{
+   font-family: 'Dancing Script', cursive;
+   position: relative;
+   bottom:30px
+ }
+ .top-paragraph{
+   width: 30%;
+   margin: auto;
+  padding-bottom: 7%;
+ }
+ .proo{
+   font-size:40px;
+   font-family: 'Edu QLD Beginner', cursive;
+
+ }
+ .fotter-continer{
+   margin-left:20px;
+   margin-right: 20px;
+   color: #11999E;
+
+ }
+ .fotter-continer:hover{
+   color: #EAF6F6;
+ }
+
+ .skill-row{
+   width: 50%;
+   margin: 100px auto;
+   text-align: left;
+   line-height: 2;
+ }
+ .coding-img{
+   width:25%;
+   float: left;
+   margin-right: 30px;
+
+ }
+ .skill-img{
+   width:25%;
+   float: right;
+   margin-left: 30px;
+
+ }
+
+   .btn {
+  background: #6e34d9;
+  background-image: -webkit-linear-gradient(top, #6e34d9, #2cb8a1);
+  background-image: -moz-linear-gradient(top, #6e34d9, #2cb8a1);
+  background-image: -ms-linear-gradient(top, #6e34d9, #2cb8a1);
+  background-image: -o-linear-gradient(top, #6e34d9, #2cb8a1);
+  background-image: linear-gradient(to bottom, #6e34d9, #2cb8a1);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: 'Edu QLD Beginner', cursive;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3ce6fc;
+  background-image: -webkit-linear-gradient(top, #3ce6fc, #34b8d9);
+  background-image: -moz-linear-gradient(top, #3ce6fc, #34b8d9);
+  background-image: -ms-linear-gradient(top, #3ce6fc, #34b8d9);
+  background-image: -o-linear-gradient(top, #3ce6fc, #34b8d9);
+  background-image: linear-gradient(to bottom, #3ce6fc, #34b8d9);
+  text-decoration: none;
+
+
+}
+
+.contect-message{
+  width: 30%;
+  margin:auto;
+  padding: 50px;
+
+}
+#pro{
+  text-decoration: underline;
+
+}
